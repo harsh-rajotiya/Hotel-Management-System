@@ -13,4 +13,4 @@ Time spent: **20** hours spent in total
 Here's some of the screenshots of the project:
 
 <img src='https://github.com/harsh-rajotiya/Hotel-Management-System/blob/main/home.png' width="800" height="450"/>
-<img src='' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hotel-Management-System/blob/main/Allot%20Room.png' width="800" height="450"/>
