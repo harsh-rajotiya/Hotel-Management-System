@@ -3,7 +3,7 @@ The project, Hospital Management system uses Java, JFrame and SQL as Database.
 
 ## *Harsh Rajotiya*
 
-**Hotel-Management-System** e. It is a Desktop-based application that allows the hotel manager to handle all hotel activities online with Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient.
+**Hotel-Management-System** is a Desktop-based application that allows the hotel manager to handle all hotel activities online with Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient.
 
 
 Time spent: **20** hours spent in total
